@@ -2,30 +2,20 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "周俊",
+        "name": "石晨欣",
         "description": "岂能尽如人意，但求无愧我心",
-        "school": "中山大学",
+        "school": "延安大学西安创新学院",
         "profession": "计算机科学与技术",
         "sex": "男",
         "education" : "本科",
-        "workage": "2012届毕业",
-        "phone": "15088888888",
-        "email": "tonjayin@gmail.com"
+        "workage": "2024届毕业",
+        "phone": "18891103449",
+        "email": "sshi55458@gmail.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
-            "icon": ""
-        },
-        {
-            "type": "weibo",
-            "link": "http://weibo.com",
-            "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com",
+            "link": "https://github.com/shicxin",
             "icon": ""
         },
         {
@@ -35,7 +25,7 @@
         },
         {
             "type": "home",
-            "link": "https://github.com/Jayin",
+            "link": "https://shichenxin.top",
             "icon": ""
         }
     ],
